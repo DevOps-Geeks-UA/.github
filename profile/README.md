@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![DevOps](assets/devops_consulting_service_by_fineshift_dfj3gip.png)
+
 <!--
 
 **Here are some ideas to get you started:**
