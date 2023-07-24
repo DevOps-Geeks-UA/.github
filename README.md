@@ -1,2 +1,3 @@
-# .github
-Ukrainian DevOps Community
+# Ukrainian DevOps Geeks Community
+
+## We are the people!
