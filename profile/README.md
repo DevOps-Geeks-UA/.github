@@ -1,4 +1,4 @@
-# ![DevOps](profile/assets/devops_consulting_service_by_fineshift_dfj3gip.png)
+![DevOps](profile/assets/devops_consulting_service_by_fineshift_dfj3gip.png)
 
 ## Hi there 👋
 
