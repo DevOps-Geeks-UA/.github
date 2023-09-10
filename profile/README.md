@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 - 🙋‍♀️ We are a group of professionals from Ukraine who are passionate about the DevOps culture and practices.
-- 👩‍💻 Please, join our [Discord Server](https://discord.gg/Cmg84Mu7)
+- 👩‍💻 Please, join our [Telegram Community](https://t.me/+9DAXdbxCWc5iYWY6)
 
 <!--
 
